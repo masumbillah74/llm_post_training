@@ -1,0 +1,166 @@
+{
+    "current": [
+        {
+            "event": 1,
+            "points": 80,
+            "total_points": 80,
+            "rank": 321537,
+            "rank_sort": 321537,
+            "overall_rank": 321537,
+            "percentile_rank": 5,
+            "bank": 0,
+            "value": 1000,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 9
+        },
+        {
+            "event": 2,
+            "points": 62,
+            "total_points": 142,
+            "rank": 6465715,
+            "rank_sort": 6465715,
+            "overall_rank": 1977912,
+            "percentile_rank": 70,
+            "bank": 0,
+            "value": 1001,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 11
+        },
+        {
+            "event": 3,
+            "points": 77,
+            "total_points": 219,
+            "rank": 2278750,
+            "rank_sort": 2278751,
+            "overall_rank": 1588565,
+            "percentile_rank": 25,
+            "bank": 0,
+            "value": 1002,
+            "event_transfers": 2,
+            "event_transfers_cost": 0,
+            "points_on_bench": 11
+        },
+        {
+            "event": 4,
+            "points": 47,
+            "total_points": 266,
+            "rank": 6377556,
+            "rank_sort": 6377556,
+            "overall_rank": 2122037,
+            "percentile_rank": 65,
+            "bank": 0,
+            "value": 1005,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 1
+        },
+        {
+            "event": 5,
+            "points": 53,
+            "total_points": 319,
+            "rank": 6811130,
+            "rank_sort": 6811131,
+            "overall_rank": 2873770,
+            "percentile_rank": 70,
+            "bank": 9,
+            "value": 1004,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 10
+        },
+        {
+            "event": 6,
+            "points": 48,
+            "total_points": 367,
+            "rank": 4838119,
+            "rank_sort": 4838119,
+            "overall_rank": 2970389,
+            "percentile_rank": 50,
+            "bank": 3,
+            "value": 1008,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": -1
+        }
+    ],
+    "past": [
+        {
+            "season_name": "2009/10",
+            "total_points": 1358,
+            "rank": 1991062
+        },
+        {
+            "season_name": "2010/11",
+            "total_points": 1823,
+            "rank": 541629
+        },
+        {
+            "season_name": "2011/12",
+            "total_points": 1779,
+            "rank": 902763
+        },
+        {
+            "season_name": "2012/13",
+            "total_points": 1945,
+            "rank": 381529
+        },
+        {
+            "season_name": "2013/14",
+            "total_points": 2120,
+            "rank": 567100
+        },
+        {
+            "season_name": "2014/15",
+            "total_points": 1884,
+            "rank": 664393
+        },
+        {
+            "season_name": "2015/16",
+            "total_points": 2062,
+            "rank": 352515
+        },
+        {
+            "season_name": "2016/17",
+            "total_points": 2210,
+            "rank": 57577
+        },
+        {
+            "season_name": "2017/18",
+            "total_points": 2210,
+            "rank": 104667
+        },
+        {
+            "season_name": "2018/19",
+            "total_points": 2308,
+            "rank": 50622
+        },
+        {
+            "season_name": "2019/20",
+            "total_points": 2302,
+            "rank": 46860
+        },
+        {
+            "season_name": "2020/21",
+            "total_points": 2507,
+            "rank": 6067
+        },
+        {
+            "season_name": "2021/22",
+            "total_points": 2452,
+            "rank": 187273
+        },
+        {
+            "season_name": "2022/23",
+            "total_points": 2633,
+            "rank": 3332
+        },
+        {
+            "season_name": "2023/24",
+            "total_points": 2680,
+            "rank": 84
+        }
+    ],
+    "chips": []
+}

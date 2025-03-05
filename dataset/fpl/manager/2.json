@@ -1,0 +1,90 @@
+{
+    "current": [
+        {
+            "event": 1,
+            "points": 55,
+            "total_points": 55,
+            "rank": 4895408,
+            "rank_sort": 4895408,
+            "overall_rank": 4895408,
+            "percentile_rank": 60,
+            "bank": 0,
+            "value": 1000,
+            "event_transfers": 0,
+            "event_transfers_cost": 0,
+            "points_on_bench": 5
+        },
+        {
+            "event": 2,
+            "points": 82,
+            "total_points": 137,
+            "rank": 2039364,
+            "rank_sort": 2039364,
+            "overall_rank": 2807283,
+            "percentile_rank": 25,
+            "bank": 0,
+            "value": 1000,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 1
+        },
+        {
+            "event": 3,
+            "points": 90,
+            "total_points": 227,
+            "rank": 290012,
+            "rank_sort": 290012,
+            "overall_rank": 941069,
+            "percentile_rank": 5,
+            "bank": 15,
+            "value": 1006,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 6
+        },
+        {
+            "event": 4,
+            "points": 57,
+            "total_points": 284,
+            "rank": 3394647,
+            "rank_sort": 3394647,
+            "overall_rank": 790520,
+            "percentile_rank": 35,
+            "bank": 0,
+            "value": 1008,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 14
+        },
+        {
+            "event": 5,
+            "points": 67,
+            "total_points": 351,
+            "rank": 2571251,
+            "rank_sort": 2571251,
+            "overall_rank": 711193,
+            "percentile_rank": 30,
+            "bank": 25,
+            "value": 1010,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 4
+        },
+        {
+            "event": 6,
+            "points": 42,
+            "total_points": 393,
+            "rank": 6254267,
+            "rank_sort": 6254267,
+            "overall_rank": 1160945,
+            "percentile_rank": 65,
+            "bank": 10,
+            "value": 1014,
+            "event_transfers": 1,
+            "event_transfers_cost": 0,
+            "points_on_bench": 8
+        }
+    ],
+    "past": [],
+    "chips": []
+}

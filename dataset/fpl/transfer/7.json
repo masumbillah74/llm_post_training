@@ -1,0 +1,173 @@
+[
+    {
+        "element_in": 230,
+        "element_in_cost": 55,
+        "element_out": 298,
+        "element_out_cost": 53,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-28T09:57:08.840814Z"
+    },
+    {
+        "element_in": 82,
+        "element_in_cost": 75,
+        "element_out": 180,
+        "element_out_cost": 77,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-28T09:46:39.781765Z"
+    },
+    {
+        "element_in": 298,
+        "element_in_cost": 53,
+        "element_out": 54,
+        "element_out_cost": 51,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-28T09:46:39.781410Z"
+    },
+    {
+        "element_in": 231,
+        "element_in_cost": 43,
+        "element_out": 573,
+        "element_out_cost": 45,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-28T09:46:39.781104Z"
+    },
+    {
+        "element_in": 521,
+        "element_in_cost": 40,
+        "element_out": 624,
+        "element_out_cost": 40,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-28T08:29:58.668647Z"
+    },
+    {
+        "element_in": 624,
+        "element_in_cost": 40,
+        "element_out": 209,
+        "element_out_cost": 40,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T23:03:50.497738Z"
+    },
+    {
+        "element_in": 180,
+        "element_in_cost": 77,
+        "element_out": 129,
+        "element_out_cost": 56,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.385623Z"
+    },
+    {
+        "element_in": 17,
+        "element_in_cost": 100,
+        "element_out": 328,
+        "element_out_cost": 127,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.385389Z"
+    },
+    {
+        "element_in": 78,
+        "element_in_cost": 56,
+        "element_out": 199,
+        "element_out_cost": 69,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.385031Z"
+    },
+    {
+        "element_in": 327,
+        "element_in_cost": 79,
+        "element_out": 135,
+        "element_out_cost": 55,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.384722Z"
+    },
+    {
+        "element_in": 355,
+        "element_in_cost": 47,
+        "element_out": 495,
+        "element_out_cost": 55,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.384474Z"
+    },
+    {
+        "element_in": 270,
+        "element_in_cost": 40,
+        "element_out": 275,
+        "element_out_cost": 40,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.384184Z"
+    },
+    {
+        "element_in": 573,
+        "element_in_cost": 45,
+        "element_out": 255,
+        "element_out_cost": 46,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.383867Z"
+    },
+    {
+        "element_in": 15,
+        "element_in_cost": 56,
+        "element_out": 201,
+        "element_out_cost": 45,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-25T22:35:45.383559Z"
+    },
+    {
+        "element_in": 99,
+        "element_in_cost": 71,
+        "element_out": 317,
+        "element_out_cost": 75,
+        "entry": 7,
+        "event": 6,
+        "time": "2024-09-21T21:14:56.024943Z"
+    },
+    {
+        "element_in": 199,
+        "element_in_cost": 69,
+        "element_out": 19,
+        "element_out_cost": 55,
+        "entry": 7,
+        "event": 4,
+        "time": "2024-09-14T09:50:21.393273Z"
+    },
+    {
+        "element_in": 328,
+        "element_in_cost": 126,
+        "element_out": 17,
+        "element_out_cost": 100,
+        "entry": 7,
+        "event": 4,
+        "time": "2024-09-02T19:12:12.787599Z"
+    },
+    {
+        "element_in": 129,
+        "element_in_cost": 56,
+        "element_out": 401,
+        "element_out_cost": 85,
+        "entry": 7,
+        "event": 4,
+        "time": "2024-09-01T20:59:02.772612Z"
+    },
+    {
+        "element_in": 135,
+        "element_in_cost": 55,
+        "element_out": 181,
+        "element_out_cost": 64,
+        "entry": 7,
+        "event": 3,
+        "time": "2024-08-30T00:31:43.594284Z"
+    }
+]
